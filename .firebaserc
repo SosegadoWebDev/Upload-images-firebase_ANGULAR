@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-storage-600e6": {
+      "hosting": {
+        "firebase-storage": [
+          "fir-storage-600e6"
+        ]
+      }
+    }
+  }
+}
