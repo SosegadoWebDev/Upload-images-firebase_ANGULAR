@@ -1,3 +1,6 @@
+![alt text](https://github.com/SosegadoWebDev/Upload-images-firebase_ANGULAR/blob/master/src/assets/localhost_4200_loading.png)
+![alt text](https://github.com/SosegadoWebDev/Upload-images-firebase_ANGULAR/blob/master/src/assets/localhost_4200_loading%20(1).png)
+
 # FirebaseStorage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
